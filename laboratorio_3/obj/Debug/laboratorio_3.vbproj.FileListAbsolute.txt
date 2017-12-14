@@ -1,0 +1,154 @@
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\ApplicationInsights.config
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\csc.exe
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\csc.exe.config
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\csc.rsp
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\csi.exe
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\csi.rsp
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\System.AppContext.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\System.IO.FileSystem.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\vbc.exe
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\vbc.exe.config
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\vbc.rsp
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\VBCSCompiler.exe
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\laboratorio_3.dll.config
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\laboratorio_3.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\laboratorio_3.pdb
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\WebForms_Basic.xml
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Antlr3.Runtime.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.AI.Web.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.ApplicationInsights.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Newtonsoft.Json.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\System.Web.Optimization.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\WebGrease.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\System.Web.Optimization.xml
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Antlr3.Runtime.pdb
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Newtonsoft.Json.xml
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.ApplicationInsights.xml
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\Microsoft.AI.Web.xml
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\es\System.Web.Optimization.resources.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\obj\Debug\laboratorio_3.vbprojResolveAssemblyReference.cache
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\obj\Debug\laboratorio_3.Resources.resources
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\obj\Debug\laboratorio_3.vbproj.GenerateResource.Cache
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\obj\Debug\laboratorio_3.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\obj\Debug\WebForms_Basic.xml
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\obj\Debug\laboratorio_3.pdb
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\MySql.Data.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\MySql.Data.Entity.EF5.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\MySql.Data.Entity.EF6.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\MySql.Fabric.Plugin.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\MySql.Web.dll
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\MySql.Data.xml
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\MySql.Data.Entity.EF5.xml
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\MySql.Data.Entity.EF6.xml
+c:\users\mati_ferrero\documents\visual studio 2017\Projects\laboratorio_3\laboratorio_3\bin\MySql.Web.xml
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\ApplicationInsights.config
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\csc.exe
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\csc.exe.config
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\csc.rsp
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\csi.exe
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\csi.rsp
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\System.AppContext.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\vbc.exe
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\vbc.exe.config
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\vbc.rsp
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\laboratorio_3.dll.config
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\laboratorio_3.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\laboratorio_3.pdb
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\WebForms_Basic.xml
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Antlr3.Runtime.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.AI.Web.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\MySql.Data.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\MySql.Data.Entity.EF5.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\MySql.Fabric.Plugin.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\MySql.Web.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Newtonsoft.Json.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\System.Web.Optimization.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\WebGrease.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\MySql.Data.xml
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\MySql.Data.Entity.EF5.xml
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\MySql.Data.Entity.EF6.xml
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\MySql.Web.xml
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\System.Web.Optimization.xml
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Antlr3.Runtime.pdb
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Newtonsoft.Json.xml
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\Microsoft.AI.Web.xml
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\obj\Debug\laboratorio_3.vbprojResolveAssemblyReference.cache
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\obj\Debug\laboratorio_3.Resources.resources
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\obj\Debug\laboratorio_3.vbproj.GenerateResource.Cache
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\obj\Debug\laboratorio_3.dll
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\obj\Debug\WebForms_Basic.xml
+C:\Users\Mati_ferrero\Desktop\UTN - TSP\Exámen Final - Laboratorio III - Ferrero,Matás\laboratorio_3\laboratorio_3\obj\Debug\laboratorio_3.pdb

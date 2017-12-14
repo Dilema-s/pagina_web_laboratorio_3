@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Login</title>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" />
+
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet" />
+
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" />
+
+    <link rel="stylesheet" type="text/css" href="Stylesheet1.css" />
+
+
+
+</head>
+
+<body>
+
+    <div class="container-fluid cabe fondo">
+
+        <div class="container-fluid cabezera">
+            <header>
+
+
+                <img src="logo1.png" width="14%" style="margin-left: 10%;">
+                <h1 class="text-center pull-right"> "Biblioteca Popular J. M. Estrada" </h1>
+
+
+            </header>
+
+        </div>
+
+        <h1 class="text-right titulo">Bienvenido!!</h1>
+
+
+        <div class="row">
+
+            <div class="col-md-2">
+
+                <nav>
+                    <ul class="nav text-center">
+                        <li><a href="#"><i class="fa fa-home icon" aria-hidden="true"></i> Home</a></li>
+                        <li><a href="#"><i class="fa fa-list icon" aria-hidden="true"></i> Noticias</a></li>
+
+                        <!-- <li><a class="text-center active" href="#"><i class="fa fa-user-circle-o icon" aria-hidden="true"></i> Asociarse</a></li>-->
+                        <li><a class="text-center" href="#"><i class="fa fa-camera-retro icon" aria-hidden="true"></i> Fotos</a></li>
+                        <li><a class="text-center" href="#"><i class="fa fa-tty icon" aria-hidden="true"></i> Contacto</a></li>
+
+                    </ul>
+                </nav>
+            </div>
+
+            <div class="container col-md-offset-2 col-md-5">
+
+                <form method="post" cssclass="form-horizontal" runat="server">
+                    <div class="form-group">
+                        <label for="exampleInputEmail1" cssclass="col-sm-2 control-label">Email</label>
+                        <input type="email" ID="mail" cssclass="form-control" runat="server" placeholder="Mail" />
+                        <asp:RequiredFieldValidator ID="RequiredFieldValidator1" controltovalidate="mail" runat="server"
+                        ErrorMessage="Campo vacio" ValidationGroup="grupo1"></asp:RequiredFieldValidator>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Contraseña</label>
+                        <input ID="contraseña" type="password" class="form-control" runat="server" placeholder="Contraseña" />
+                        <asp:RequiredFieldValidator ID="RequiredFieldValidator2" controltovalidate="contraseña" runat="server"
+                         ErrorMessage="Campo vacio" ValidationGroup="grupo1"></asp:RequiredFieldValidator>
+                    </div>
+                    
+                    <input type="button" ID="boton" cssclass="btn btn-success btn-lg" runat="server" Text="Aceptar" ValidationGroup="grupo1" />
+
+                    <input type="button" ID="Button1" cssclass="btn btn-success btn-lg" runat="server" Text="Registrate!" />
+
+                </form>
+
+
+
+
+                <br />
+
+            </div>
+
+
+        </div>
+
+
+        <footer>
+            <p>Copiright 2017 Derechos reservados.</p>
+        </footer>
+    </div>
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+
+
+
+
+
+
+</body>
+</html>
